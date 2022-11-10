@@ -1,1 +1,15 @@
 this is text2.file
+lincon
+>git --version
+>git init
+notepad t1.txt
+notepad t2.txt
+git remote add origin "https://github.com/puja-bhusal/pujabhusal.git"
+git add -A
+git status
+>git commit -a -m "first commit"
+git log
+git branch
+git branch ghorahibranch
+git checkout master
+git push origin master
